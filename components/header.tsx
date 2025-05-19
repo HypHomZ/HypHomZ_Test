@@ -201,12 +201,9 @@ export default function Header() {
                 size="sm"
                 className="transition-all duration-300 hover:border-primary hover:text-primary"
               >
-                Login
+                Login/SignUp
               </Button>
             </Link>
-            <Button size="sm" className="transition-all duration-300 hover:bg-primary/90 hover:scale-105">
-              Sign Up
-            </Button>
           </div>
           <Button
             variant="ghost"
